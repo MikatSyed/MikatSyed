@@ -1,3 +1,4 @@
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS5h-eefsHN2USDqYH02EHEVoa4z2-52UohhJD9ltG4sHL_lda6Mn0zjfObG6Spci_Q-k&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Mikat Syed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300&vertical=top" alt="coding image"/>
