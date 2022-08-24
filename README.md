@@ -1,4 +1,4 @@
-[![MasterHead]([https://ibb.co/dpdcfqg](https://ibb.co/dpdcfqg))]
+[![MasterHead]([[https://ibb.co/dpdcfqg](https://ibb.co/dpdcfqg)](https://www.linkpicture.com/view.php?img=LPic63069448e8562730202073))]
 <h1 align="center">Hi 👋, I'm Mikat Syed</h1>
 <h3 align="center">I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.I pride myself on doing quality work and maintain excellent communication. I enjoy working with include ReactJS, JavaScript as well as React Native.</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif" align="right" width="400" alt="coding image"/>
