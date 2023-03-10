@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mikat Syed</h1>
-<h3 align="center">I’m a MERN Stack Web Application developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.I pride myself on doing quality work and maintain excellent communication. I enjoy working with include ReactJS, JavaScript,Express.js as well as TypeScript.</h3>
+<h3 align="center">I’m a Full Stack Web Application developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.I pride myself on doing quality work and maintain excellent communication. I enjoy working with include ReactJS, JavaScript,Express.js as well as TypeScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikatsyed&label=Profile%20views&color=0e75b6&style=flat" alt="mikatsyed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikatsyed" alt="mikatsyed" /></a> </p>
 
-- 🔭 I’m currently working on **Appstech**
+- 🔭 I’m currently working on **Syscon Solution Limited**
 
 - 🌱 I’m currently learning **React**
 
