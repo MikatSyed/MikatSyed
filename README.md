@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Syed Gaziul Hoque</h1>
-<h3 align="center">I’m a Full Stack Web Application developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.I pride myself on doing quality work and maintain excellent communication. I enjoy working with include JavaScript ,ReactJS, Next.js, Redux ,Express.js,MongoDB,Prisma as well as TypeScript.</h3>
+<h1 align="center">Hi 👋, I'm Syed Gaziul Haque</h1>
+<h3 align="center">I’m a Full Stack Web Application developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.I pride myself on doing quality work and maintain excellent communication. I enjoy working with include JavaScript ,ReactJS, Next.js, Redux ,Express.js, GrapgQL, MongoDB,Prisma as well as TypeScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikatsyed&label=Profile%20views&color=0e75b6&style=flat" alt="mikatsyed" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **mikatsyed@gmail.com**
 
@@ -16,6 +16,13 @@
 <p align="left">
 <a href="https://linkedin.com/in/mikat-syed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikat-syed/" height="30" width="40" /></a>
 <a href="https://fb.com/syedmilka.cricket/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syedmilka.cricket/" height="30" width="40" /></a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikatsyed&show_icons=true&locale=en&theme=tokyonight" alt="mikatsyed GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikatsyed&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
