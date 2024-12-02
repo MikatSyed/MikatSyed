@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikatsyed" alt="mikatsyed" /></a> </p>
 
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **mikatsyed@gmail.com**
 
