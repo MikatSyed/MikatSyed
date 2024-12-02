@@ -15,9 +15,9 @@
 
 <h2 align="center">🌟 About Me</h2>
 
-- 🔭 **Currently working on:** Scalable full-stack applications using **React**, **Next.js**, **Node.js**, and **GraphQL**.  
-- 🌱 **Learning:** Advanced **GraphQL** and **TypeScript** to build robust APIs and type-safe applications.  
-- 💬 **Ask me about:** **MERN stack**, **Next.js**, **Redux**, **Backend APIs**, and **Application Architecture**.  
+- 🔭 **Currently working on: **DSA** and **Leet Code**.  
+- 🌱 **Learning:**  **GraphQL** and **Devops** to improved deployment and automation pipelines.  
+- 💬 **Ask me about:** **MERN stack**, **Next.js**, **React.js**, **Redux**, **Backend APIs**, **Prisma**, and **Javascript**.  
 - 📧 **How to reach me:** [mikatsyed@gmail.com](mailto:mikatsyed@gmail.com)  
 - ⚡ **Fun fact:** I love cricket and enjoy breaking down complex problems into elegant, scalable solutions.
 
