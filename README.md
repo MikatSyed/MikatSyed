@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Gaziul Haque</h1>
+<h1 align="center">Hi 👋, I'm Syed Gaziul Hoque</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 <p align="center">
