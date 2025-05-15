@@ -20,7 +20,7 @@
 <div align="center">
   I'm a <b>Full Stack Web Application Developer</b> passionate about creating scalable, innovative, and user-friendly web solutions. With expertise in modern JavaScript frameworks, back-end technologies, and clean code principles, I strive to deliver quality work with 100% client satisfaction. I love solving real-world problems, collaborating with teams, and constantly learning and sharing knowledge.
 
-  <table>
+  <table style="margin-top: 30px">
     <tr>
       <td>
         <ul>
