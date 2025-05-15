@@ -1,35 +1,57 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Syed%20Gaziul%20Hoque&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20" alt="Header" width="100%"/>
-  
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E1FF&center=true&vCenter=true&random=false&width=600&height=100&lines=MERN+Stack+Specialist;Next.js+Developer;Problem+Solver;DSA+Enthusiast;UI/UX+Designer" alt="Typing SVG" />
-    
-    <h3 align="center"><b>Building scalable, innovative, and user-friendly web solutions</b></h3>
-    
-    <p align="center">
-      <a href="mailto:mikatsyed@gmail.com"><img src="https://img.shields.io/badge/Email-mikatsyed%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-      <a href="https://linkedin.com/in/mikat-syed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-      <a href="https://fb.com/syedmilka.cricket/"><img src="https://img.shields.io/badge/Facebook-Follow-blue?style=flat-square&logo=facebook"></a>
-      <img src="https://komarev.com/ghpvc/?username=mikatsyed&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
-    </p>
-  </div>
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E1FF&center=true&vCenter=true&random=false&width=600&height=100&lines=MERN+Stack+Specialist;Next.js+Developer;Problem+Solver;DSA+Enthusiast;UI/UX+Designer" alt="Typing SVG" />
+</div>
+
+<h3 align="center"><b>Building scalable, innovative, and user-friendly web solutions</b></h3>
+
+<p align="center">
+  <a href="mailto:mikatsyed@gmail.com"><img src="https://img.shields.io/badge/Email-mikatsyed%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/mikat-syed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://fb.com/syedmilka.cricket/"><img src="https://img.shields.io/badge/Facebook-Follow-blue?style=flat-square&logo=facebook"></a>
+  <img src="https://komarev.com/ghpvc/?username=mikatsyed&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+</p>
 
 ## 💻 Technology Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <h3>Frontend Technologies</h3>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+  </p>
+  
+  <h3>Backend Technologies</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  </p>
+  
+  <h3>Database Technologies</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  </p>
+  
+  <h3>DevOps & Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  </p>
 </div>
 
 <div align="center">
@@ -90,6 +112,6 @@
 ```mermaid
 xychart-beta
     title "Skill Proficiency"
-    x-axis [JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, TypeScript, DevOps]
+    x-axis [JavaScript, React.js, Next.js, Node.js, Laravel, MongoDB, TypeScript, DevOps]
     y-axis "Proficiency" 0 --> 10
-    bar [9, 9, 8, 8, 8, 7, 7, 5]
+    bar [9, 9, 8, 8, 7, 7, 7, 5]
