@@ -26,7 +26,7 @@
         <ul>
           <li>🔭 Currently working on: <b>DSA and LeetCode challenges</b></li>
           <li>🌱 Learning: <b>GraphQL and DevOps</b> to improve deployment and automation pipelines</li>
-          <li>💬 Ask me about: <b>MERN stack, Next.js, React.js, Redux, Backend APIs, Prisma, and JavaScript</b></li>
+          <li>💬 Ask me about: <b>MERN stack, React Native,Next.js, React.js, Electron.js, Redux, Zustand, Backend APIs, Prisma, Typescript and JavaScript</b></li>
           <li>📧 How to reach me: <b>mikatsyed@gmail.com</b></li>
           <li>⚡ Fun fact: I love cricket and enjoy breaking down complex problems into elegant, scalable solutions</li>
         </ul>
