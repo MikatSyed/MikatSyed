@@ -1,3 +1,10 @@
+<a href="https://github.com/MikatSyed">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <img alt="Syed Gaziul Hoque's GitHub profile card" src="light_mode.svg" width="100%">
+  </picture>
+</a>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Syed%20Gaziul%20Hoque&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20" alt="Header" width="100%"/>
 </div>

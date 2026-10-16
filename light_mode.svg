@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,DejaVu Sans Mono,Courier New,monospace" width="1095px" height="580px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #953800;} .value {fill: #0a3069;} .dots {fill: #c2cfde;}
+.title {fill: #953800; font-weight: bold;} .ascii {fill: #24292f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1095px" height="580px" fill="#f6f8fa" rx="15" stroke="#d0d7de" stroke-width="1"/>
+<text x="15" y="30" class="ascii">
+<tspan x="15" y="30">                                            </tspan>
+<tspan x="15" y="50">                =~+**+-+                    </tspan>
+<tspan x="15" y="70">            --~--?%#%!!*+-~+=               </tspan>
+<tspan x="15" y="90">          :~=+~+###%#%#%??!%*-=             </tspan>
+<tspan x="15" y="110">         ;*+?!!##########%?*!!*=            </tspan>
+<tspan x="15" y="130">         *?!%%#!~::,,;~!####%??!-           </tspan>
+<tspan x="15" y="150">        +!%##*,.........,;+%%?!!*+~         </tspan>
+<tspan x="15" y="170">         *?!?..............:=####%*=        </tspan>
+<tspan x="15" y="190">         +%%~................=#%##%         </tspan>
+<tspan x="15" y="210">          %#,,;~=+-:,,:~++=-:,###?=         </tspan>
+<tspan x="15" y="230">          !%.-+~~?%*;-##!=*%!:=#*=          </tspan>
+<tspan x="15" y="250">         ~;+.,:~*+;....;=**;,.:!~!          </tspan>
+<tspan x="15" y="270">         ~:=..................,!+:          </tspan>
+<tspan x="15" y="290">          .~:..,,,:++!?=.:,,,.=-.-          </tspan>
+<tspan x="15" y="310">           ;?,,::;:+*=*-;-=~;;!;            </tspan>
+<tspan x="15" y="330">            ++,.*!==+*+++*=;+!~             </tspan>
+<tspan x="15" y="350">             ==,,..:++*~..,=%?              </tspan>
+<tspan x="15" y="370">              -?=:,,:,,.:~!#?:+             </tspan>
+<tspan x="15" y="390">             ~.,=?########%+;.~?;-          </tspan>
+<tspan x="15" y="410">           ~-!.,::-*?%%%%!=-;:.!=~-         </tspan>
+<tspan x="15" y="430">          ;~~?;:::-~+*??+~-:;:,*==~~-;-~+   </tspan>
+<tspan x="15" y="450">      +~;~=~~=-;;;;-~===~----;;+~==+==~~~---</tspan>
+<tspan x="15" y="470"> +~--~~~~====++~~~--~+++=-;;;-+=~~=+=======~</tspan>
+<tspan x="15" y="490">~~~~~======!??%##??+-::,-+!%#####%+=========</tspan>
+<tspan x="15" y="510">===========**+~~==+*!~,*%##%!*!??!==+=======</tspan>
+<tspan x="15" y="530">===========~~~==~=====*!!*=~==~~~~=~=~======</tspan>
+<tspan x="15" y="550">====================~**=~~~===~=============</tspan>
+</text>
+<text x="480" y="30" fill="#24292f">
+<tspan x="480" y="30"><tspan class="title">mikatsyed@github</tspan> —————————————————————————————————————————</tspan>
+<tspan x="480" y="50">. <tspan class="key">Name</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">Syed Gaziul Hoque</tspan></tspan>
+<tspan x="480" y="70">. <tspan class="key">Role</tspan>:<tspan class="dots"> .......................... </tspan><tspan class="value">Full Stack Web Developer</tspan></tspan>
+<tspan x="480" y="90">. <tspan class="key">Stack</tspan>:<tspan class="dots"> ........................... </tspan><tspan class="value">MERN, Next.js, Laravel</tspan></tspan>
+<tspan x="480" y="110">. </tspan>
+<tspan x="480" y="130">. <tspan class="key">Languages.Programming</tspan>:<tspan class="dots"> ...... </tspan><tspan class="value">JavaScript, TypeScript, PHP</tspan></tspan>
+<tspan x="480" y="150">. <tspan class="key">Languages.Frontend</tspan>:<tspan class="dots"> .... </tspan><tspan class="value">React, Next.js, Svelte, Tailwind</tspan></tspan>
+<tspan x="480" y="170">. <tspan class="key">Languages.Backend</tspan>:<tspan class="dots"> ... </tspan><tspan class="value">Node.js, Express, Laravel, GraphQL</tspan></tspan>
+<tspan x="480" y="190">. <tspan class="key">Databases</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">MongoDB, MySQL, Supabase, Prisma</tspan></tspan>
+<tspan x="480" y="210">. <tspan class="key">DevOps</tspan>:<tspan class="dots"> .................... </tspan><tspan class="value">Docker, Git, Vercel, Netlify</tspan></tspan>
+<tspan x="480" y="230">. <tspan class="key">Currently.Learning</tspan>:<tspan class="dots"> ..................... </tspan><tspan class="value">GraphQL, DevOps</tspan></tspan>
+<tspan x="480" y="250">- Contact ————————————————————————————————————————————————</tspan>
+<tspan x="480" y="270">. <tspan class="key">Email.Personal</tspan>:<tspan class="dots"> ..................... </tspan><tspan class="value">mikatsyed@gmail.com</tspan></tspan>
+<tspan x="480" y="290">. <tspan class="key">Portfolio</tspan>:<tspan class="dots"> ............ </tspan><tspan class="value">syed-gaziul-portfolio.netlify.app</tspan></tspan>
+<tspan x="480" y="310">. <tspan class="key">LinkedIn</tspan>:<tspan class="dots"> .................................... </tspan><tspan class="value">mikat-syed</tspan></tspan>
+<tspan x="480" y="330">- GitHub Stats ———————————————————————————————————————————</tspan>
+<tspan x="480" y="350">. <tspan class="key">Public.Repos</tspan>:<tspan class="dots"> ....................................... </tspan><tspan class="value">115</tspan></tspan>
+<tspan x="480" y="370">. <tspan class="key">Followers</tspan>:<tspan class="dots"> ........................................... </tspan><tspan class="value">10</tspan></tspan>
+<tspan x="480" y="390">. <tspan class="key">Following</tspan>:<tspan class="dots"> ........................................... </tspan><tspan class="value">26</tspan></tspan>
+</text>
+</svg>
