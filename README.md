@@ -1,8 +1,5 @@
 <a href="https://github.com/MikatSyed">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <img alt="Syed Gaziul Hoque's GitHub profile card" src="light_mode.svg" width="100%">
-  </picture>
+  <img alt="Syed Gaziul Hoque's GitHub profile card" src="dark_mode.svg" width="100%">
 </a>
 
 <div align="center">
