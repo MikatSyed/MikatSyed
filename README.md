@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Full Stack Web Developer building scalable, user-friendly products with the MERN stack, Next.js and Laravel
+### Full Stack Web Developer building scalable, user-friendly products with the MERN stack, Next.js and NestJS
 
 <a href="https://syed-gaziul-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/mikat-syed/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
@@ -18,11 +18,11 @@
 
 ## About Me
 
-I build full stack web applications end to end, from database design and REST/GraphQL APIs to fast, polished interfaces. I care about clean code, solid architecture and shipping work that clients are happy with.
+I build full stack web applications end to end, from database design and REST APIs to fast, polished interfaces. I care about clean code, solid architecture and shipping work that clients are happy with.
 
 - **Currently:** sharpening problem solving with Data Structures, Algorithms and LeetCode
-- **Learning:** GraphQL and DevOps to improve deployment and automation pipelines
-- **Ask me about:** MERN, Next.js, React Native, Electron.js, Redux, Zustand, Prisma, TypeScript and backend APIs
+- **Learning:** DevOps to improve deployment and automation pipelines
+- **Ask me about:** MERN, Next.js, NestJS, React Native, Redux, Zustand, Prisma, Drizzle, TypeScript and backend APIs
 - **Fun fact:** I love cricket, and breaking big problems into small, elegant solutions
 
 ## Tech Stack
@@ -30,27 +30,27 @@ I build full stack web applications end to end, from database design and REST/Gr
 <table>
   <tr>
     <td width="140"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,php,html,css&theme=dark" alt="Languages"></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="Languages"></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,svelte,tailwind,materialui,firebase&theme=dark" alt="Frontend"></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui&theme=dark" alt="Frontend"> <sub>Zustand · Ant Design · Framer Motion</sub></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql&theme=dark" alt="Backend"></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma&theme=dark" alt="Backend"> <sub>Drizzle ORM</sub></td>
   </tr>
   <tr>
-    <td><b>Database & ORM</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,prisma,sequelize&theme=dark" alt="Database and ORM"></td>
+    <td><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Databases"> <sub>Mongoose</sub></td>
   </tr>
   <tr>
     <td><b>DevOps & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,vscode&theme=dark" alt="DevOps and Tools"></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,vitest&theme=dark" alt="DevOps and Tools"> <sub>Hostinger</sub></td>
   </tr>
   <tr>
-    <td><b>Cross-platform</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,electron&theme=dark" alt="Cross-platform"> <sub>React Native · Electron.js</sub></td>
+    <td><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,firebase&theme=dark" alt="Mobile"> <sub>React Native · Expo · Firebase</sub></td>
   </tr>
 </table>
 
